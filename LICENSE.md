@@ -1,4 +1,4 @@
-
+Get the ultimate RStudio for macOS automation with smart RStudio for macOS Automation | version-control + formula-editor. Featuring version-control and formula-editor, it's the
 
 
 
